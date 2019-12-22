@@ -35,3 +35,5 @@ if (navigator.serviceWorker.controller) {
 Тестируем PWA через
 - Хром / аудит
 - https://www.pwabuilder.com/ здесь тюнинг и дополнительные фичи
+
+Источник https://www.runovikov.ru/?p=92 
